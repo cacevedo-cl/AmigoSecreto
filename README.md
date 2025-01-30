@@ -19,9 +19,9 @@ El objetivo es permitir el ingreso de nombres en una lista y realizar un sorteo 
 
 
 ### Funcionalidades
-**Agregar: ** Permite a los usuarios que puedan ingresar un nombre en el campo de texto y luego validar si el nombre ingresado es valido
-**Visualización de la lista de nombres: ** Los nombres ingresados se visualizarán en una lista debajo del campo de entrada.
-**Sorteo: ** Al hacer clic en "Sortear Amigo", se selecciona aleatoriamente un nombre de la lista, se desplegará en pantalla y se eliminará el nombre de la lista para continuar con el sorteo.
+** Agregar: ** Permite a los usuarios que puedan ingresar un nombre en el campo de texto y luego validar si el nombre ingresado es valido
+** Visualización de la lista de nombres: ** Los nombres ingresados se visualizarán en una lista debajo del campo de entrada.
+** Sorteo: ** Al hacer clic en "Sortear Amigo", se selecciona aleatoriamente un nombre de la lista, se desplegará en pantalla y se eliminará el nombre de la lista para continuar con el sorteo.
 
 #### Validaciones del programa: 
 1. Si el campo de texto está vacío, se mostrará una alerta solicitando un nombre válido.
