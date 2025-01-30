@@ -2,7 +2,7 @@
 Juego del amigo Secreto...
 
 
-##Índice
+## Índice
  1. Descripción Amigo Secreto
  2. Funcionalidades
  3. Tecnologías utilizadas
